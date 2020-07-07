@@ -33,7 +33,6 @@ makeCacheMatrix <- function(x = matrix()) {
     )
 }
 
-
 ## Calculate the inverse of the special "matrix" created with the above
 ## function, reusing cached result if it is available
 
